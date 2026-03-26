@@ -1,4 +1,4 @@
-!pip install pypdf docx2txt --quiet
+#!pip install pypdf docx2txt --quiet
 import os
 import google.generativeai as genai
 from datetime import datetime
